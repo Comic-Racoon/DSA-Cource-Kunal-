@@ -1,7 +1,5 @@
-import java.io.*;
-import java.net.*;
-
-
-public static void main(String[] args) {
-    
+class test_file{
+    public static void main(String[] args) {
+        System.out.println("faiz");
+    }
 }
