@@ -1,0 +1,33 @@
+Introduction
+Sytax
+Properties/Datatype
+Yaml Tools 
+
+-------------------------------------------------------
+
+Yaml stands for earlier ( Yet another markup language )
+
+Yaml now called as ( Yaml ain't markup language )
+
+--------------------------------------------------------
+1) what is Yaml?
+
+->  * Data format used to exchange data
+    * Similar to xml and Json 
+    * In yaml, you can store only data, not commands 
+    * we are storing data called as Data Serialisation 
+
+    Serialisation: Is a process of converting data objects in complex data structure into a stream of storage that can be use to transfer data into multiple physical devices 
+
+        serialization 
+
+    obj --> stream --> |          |
+                       |          |
+                       |  machine |
+                       |          |
+
+    vice versa deserialization 
+
+    imp :- yaml is data serialization language 
+
+2) 
