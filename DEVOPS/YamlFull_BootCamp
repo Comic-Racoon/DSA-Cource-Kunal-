@@ -30,4 +30,17 @@ Yaml now called as ( Yaml ain't markup language )
 
     imp :- yaml is data serialization language 
 
-2) 
+    used :
+        configuration file
+        logs
+        caches 
+    
+    Benifits :
+        Simple 
+        Easy to Read 
+        It has a strict syntax -- Indentaion is important 
+        Easily convertable to json, xml, etc 
+        Most programming languages use Yaml 
+        More powerful when representating complex data
+        Various tools available 
+        Parsing is easy 
