@@ -1,0 +1,20 @@
+"apple": "I am a red fruit"
+
+1: "this is my roll no"
+---
+- apple
+- mango
+- banana
+
+---
+cities:
+ - new delhi
+ - mumbai 
+ - 
+
+
+
+ #   ---    ->  it hepls yaml file to say this is another document
+ #   ...    ->  it says that file has ended hear 
+
+ 

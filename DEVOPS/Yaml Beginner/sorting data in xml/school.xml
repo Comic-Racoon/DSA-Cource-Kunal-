@@ -1,0 +1,13 @@
+<?xml version="1.0" encodeing="UTF-8"?>
+
+<School name="DPS" principle="some-one">
+  
+  <Students>
+  
+    <rno>22</rno>
+    <name>Rahul</name>
+    <marks>99</marks>
+  
+  </students>
+
+</School>

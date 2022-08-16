@@ -1,0 +1,48 @@
+
+#String variables 
+my_self : Rahul Mhatre
+fruit : "apple"
+job : 'software engineer'
+---
+bio : |
+ hey my name is Rahul.
+ i am very cool dude.
+---
+# above error is because all the the things should be in 
+# single line 
+
+# to write single line in multiple lines
+---
+message: > 
+ this will
+ all be treated as 
+ single line 
+---
+
+numbers: 4243     #decimal 
+marks : 98.99     #float
+booleanValues: No #n, N, False, FALSE
+booleanValue: yes # y, Y
+
+# we can also say what type of data type 
+
+# specify the type
+zero: !!int 0
+positiveNum: !!int 45
+negativeNum: !!int -43
+binaryNum : !!int 0
+octNUm :    !!int 06574
+hexa : !!int 0x45 
+
+# Floating Number 
+
+mark: !!float 56.89
+
+#null
+surname: !!null Null # or null NULL ~
+
+#date and time 
+date: 2002-12-14
+dates: !!timestamp 2002-12-14
+IndiaTime: !!timestamp 2002-12-14T02:59:43.10 +5:30
+no time zone : 2002-12-14T02:59:43.10
